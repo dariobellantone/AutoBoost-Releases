@@ -1,0 +1,8 @@
+{
+  "version": "10.0.1",
+  "installerUrl": "https://github.com/dariobellantone/AutoBoost-Releases/releases/download/v10.0.1/AutoBoost-Setup-v10.0.1.exe",
+  "sha256": "26E5DE4E1C6339FBE7B7C322BE0F8BFAA8FCAE035EB79D8F683A5D037BDEF8E3",
+  "releaseNotes": "Prima release di test del nuovo sistema di aggiornamento automatico.",
+  "releasePageUrl": "https://github.com/dariobellantone/AutoBoost-Releases/releases/tag/v10.0.1",
+  "mandatory": false
+}
